@@ -3,7 +3,7 @@
 Hi, I'm Elie, a passionate 👨‍💻 / ⛷️ / 🪂 with a lot of devops inside !
 
 
-<a href="https://twitter.com/eliecharra">
+<a href="https://hachyderm.io/@elie">
   <img align="left" alt="Elie | Twitter" width="21px" src="https://raw.githubusercontent.com/eliecharra/eliecharra/main/assets/twitter.svg" />
 </a>
 
