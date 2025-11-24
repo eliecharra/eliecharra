@@ -30,7 +30,11 @@ jobs:
           plugin_achievements_display: compact  # Use compact display
           plugin_achievements_limit: 0          # Display all unlocked achievements (no limit)
 
-          plugin_notable: yes
+          plugin_repositories: yes
+          plugin_repositories_featured: snyk/driftctl, snyk/cli, symfony/symfony, hashicorp/terraform-provider-aws, GoogleCloudPlatform/magic-modules, integrations/terraform-provider-github 
+
+          plugin_topics: true
+          plugin_topics_mode: icons
 
           plugin_sponsorships: yes
 
