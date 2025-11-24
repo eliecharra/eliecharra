@@ -15,7 +15,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: Europe/Paris
           config_display: large
-          repositories_skipped: iso2god-cli
+          repositories_skipped: eliecharra/iso2god-cli
 
           plugin_languages: yes
 
